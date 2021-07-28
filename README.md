@@ -19,4 +19,4 @@
 ![image](https://user-images.githubusercontent.com/57696767/127260416-70b21a26-4732-4337-bcfe-d489897139ab.png)
 
 
-## Recordar usar el siguiente instruccion para isntalar las dependencias del proyecto "npm install"
+## Recordar usar el siguiente instruccion para instalar las dependencias del proyecto "npm install"
