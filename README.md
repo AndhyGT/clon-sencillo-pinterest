@@ -3,12 +3,13 @@
 ### clon sencillo de pinterest para seguir aprendiendo la subida de imagenes
 ### y como renderizarlo en el navegador
 
-#### Algunas tecnologias utilizadas:
-#### Node.js
-#### Framework Express.js
-#### Conexion a base de datos MongoDB con Moongose
-#### Multer.js
-
+## Algunas tecnologias utilizadas: 
+```
+- Node.js
+- Framework Express.js
+- Conexion a base de datos MongoDB con Moongose
+- Multer.js
+```
 ## Pantalla principal del clon
 ![image](https://user-images.githubusercontent.com/57696767/127260293-43ffa6b5-3b75-487b-a932-f44a1e196387.png)
 
